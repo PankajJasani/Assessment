@@ -42,6 +42,7 @@ namespace Assessment.Services.Controllers
         [HttpGet("{id}")]
         public PersonBE Get(int id)
         {
+            _logger.LogInformation("Get Start {id}", id);
             try
             {
                 if (id > 0)
@@ -55,10 +56,10 @@ namespace Assessment.Services.Controllers
             }
             catch (Exception ex)
             {
-                _logger.LogInformation(ex.ToString());
+                _logger.LogInformation(ex.ToString());                
                 throw;
             }
-            //return "value";
+            
         }
 
         // POST api/<PersonController>

@@ -9,3 +9,4 @@ D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.BusinessEntity\obj\Debug\ne
 D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.BusinessEntity\obj\Debug\net5.0\Assessment.BusinessEntity.dll
 D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.BusinessEntity\obj\Debug\net5.0\ref\Assessment.BusinessEntity.dll
 D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.BusinessEntity\obj\Debug\net5.0\Assessment.BusinessEntity.pdb
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.BusinessEntity\obj\Debug\net5.0\Assessment.BusinessEntity.csprojAssemblyReference.cache
