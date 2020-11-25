@@ -1,0 +1,9 @@
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.DataAccessLayer\bin\Debug\netcoreapp3.1\Assessment.DataAccessLayer.deps.json
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.DataAccessLayer\bin\Debug\netcoreapp3.1\Assessment.DataAccessLayer.dll
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.DataAccessLayer\bin\Debug\netcoreapp3.1\Assessment.DataAccessLayer.pdb
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.DataAccessLayer\obj\Debug\netcoreapp3.1\Assessment.DataAccessLayer.csprojAssemblyReference.cache
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.DataAccessLayer\obj\Debug\netcoreapp3.1\Assessment.DataAccessLayer.AssemblyInfoInputs.cache
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.DataAccessLayer\obj\Debug\netcoreapp3.1\Assessment.DataAccessLayer.AssemblyInfo.cs
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.DataAccessLayer\obj\Debug\netcoreapp3.1\Assessment.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.DataAccessLayer\obj\Debug\netcoreapp3.1\Assessment.DataAccessLayer.dll
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.DataAccessLayer\obj\Debug\netcoreapp3.1\Assessment.DataAccessLayer.pdb

@@ -1,0 +1,9 @@
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\bin\Debug\netcoreapp3.1\Assessment.Common.deps.json
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\bin\Debug\netcoreapp3.1\Assessment.Common.dll
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\bin\Debug\netcoreapp3.1\Assessment.Common.pdb
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\obj\Debug\netcoreapp3.1\Assessment.Common.csprojAssemblyReference.cache
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\obj\Debug\netcoreapp3.1\Assessment.Common.AssemblyInfoInputs.cache
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\obj\Debug\netcoreapp3.1\Assessment.Common.AssemblyInfo.cs
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\obj\Debug\netcoreapp3.1\Assessment.Common.csproj.CoreCompileInputs.cache
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\obj\Debug\netcoreapp3.1\Assessment.Common.dll
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\obj\Debug\netcoreapp3.1\Assessment.Common.pdb

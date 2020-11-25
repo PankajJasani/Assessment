@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Assessment.BusinessEntity\Assessment.BusinessEntity.csproj" />
+    <ProjectReference Include="..\Assessment.Common\Assessment.Common.csproj" />
+    <ProjectReference Include="..\Assessment.DataAccessLayer\Assessment.DataAccessLayer.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,62 @@
+
+<div class="container">
+  <div [hidden]="submitted">
+    <h3>Person Form</h3>
+    <form (ngSubmit)="onSubmit()" #personForm="ngForm">
+      <div class="form-group">
+        <label for="firstName">First Name</label>
+        <input type="text" class="form-control" id="firstName"
+               required maxlength="50"
+               [(ngModel)]="model.firstName" name="firstName"
+               #firstName="ngModel">
+        <div [hidden]="firstName.valid || firstName.pristine"
+             class="alert alert-danger">
+          First Name is required
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="lastName">Last Name</label>
+        <input type="text" class="form-control" id="lastName"
+               required maxlength="50"
+               [(ngModel)]="model.lastName" name="lastName"
+               #lastName="ngModel">
+        <div [hidden]="lastName.valid || lastName.pristine"
+             class="alert alert-danger">
+          Last Name is required
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="cityName">City</label>
+        <select class="form-control" id="cityName"
+                required
+                [(ngModel)]="model.cityName" name="cityName"
+                #cityName="ngModel">
+          <option *ngFor="let city of cities" [value]="city">{{city}}</option>
+        </select>
+        <div [hidden]="cityName.valid || cityName.pristine" class="alert alert-danger">
+          City is required
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="phoneNumber">Phone Number</label>
+        <input type="number" class="form-control" id="phoneNumber"
+               required onkeypress="if(this.value.length>15) return false;"
+               onmousedown="if(this.value.length>15 return false;"
+               [(ngModel)]="model.phoneNumber" name="phoneNumber"
+               #phoneNumber="ngModel">
+        <div [hidden]="phoneNumber.valid || phoneNumber.pristine"
+             class="alert alert-danger">
+          Phone Number is required
+        </div>
+      </div>
+      <button type="submit" class="btn btn-success" [disabled]="!personForm.form.valid">Submit</button>
+      <button type="button" class="btn btn-default" (click)="newPerson(); personForm.reset()">New Person</button>
+    </form>
+  </div>
+
+  <div [hidden]="!submitted">
+    <h4>Added successfully</h4>
+</div>
+  </div>

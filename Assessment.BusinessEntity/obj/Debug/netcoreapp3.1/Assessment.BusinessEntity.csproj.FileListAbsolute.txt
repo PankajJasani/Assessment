@@ -1,0 +1,9 @@
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.BusinessEntity\bin\Debug\netcoreapp3.1\Assessment.BusinessEntity.deps.json
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.BusinessEntity\bin\Debug\netcoreapp3.1\Assessment.BusinessEntity.dll
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.BusinessEntity\bin\Debug\netcoreapp3.1\Assessment.BusinessEntity.pdb
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.BusinessEntity\obj\Debug\netcoreapp3.1\Assessment.BusinessEntity.csprojAssemblyReference.cache
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.BusinessEntity\obj\Debug\netcoreapp3.1\Assessment.BusinessEntity.AssemblyInfoInputs.cache
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.BusinessEntity\obj\Debug\netcoreapp3.1\Assessment.BusinessEntity.AssemblyInfo.cs
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.BusinessEntity\obj\Debug\netcoreapp3.1\Assessment.BusinessEntity.csproj.CoreCompileInputs.cache
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.BusinessEntity\obj\Debug\netcoreapp3.1\Assessment.BusinessEntity.dll
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.BusinessEntity\obj\Debug\netcoreapp3.1\Assessment.BusinessEntity.pdb

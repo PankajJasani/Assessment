@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Assessment.BusinessLogicLayer/1.0.0": {
+        "runtime": {
+          "Assessment.BusinessLogicLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assessment.BusinessLogicLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

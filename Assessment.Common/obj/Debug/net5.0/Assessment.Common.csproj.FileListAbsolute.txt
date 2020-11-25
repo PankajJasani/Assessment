@@ -1,0 +1,12 @@
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\bin\Debug\net5.0\Assessment.Common.deps.json
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\bin\Debug\net5.0\Assessment.Common.dll
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\bin\Debug\net5.0\ref\Assessment.Common.dll
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\bin\Debug\net5.0\Assessment.Common.pdb
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\obj\Debug\net5.0\Assessment.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\obj\Debug\net5.0\Assessment.Common.AssemblyInfoInputs.cache
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\obj\Debug\net5.0\Assessment.Common.AssemblyInfo.cs
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\obj\Debug\net5.0\Assessment.Common.csproj.CoreCompileInputs.cache
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\obj\Debug\net5.0\Assessment.Common.dll
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\obj\Debug\net5.0\ref\Assessment.Common.dll
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\obj\Debug\net5.0\Assessment.Common.pdb
+D:\KPSofTech\Upwork\DotNetCore\Assessment\Assessment.Common\obj\Debug\net5.0\Assessment.Common.csprojAssemblyReference.cache
